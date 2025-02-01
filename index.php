@@ -248,10 +248,10 @@
                     <div class="footer-top__box">
                         <h3>CONTACT US</h3>
                         <div>
-                            52, Kuppiah Road
+                            Dead End Street
                         </div>
                         <div>
-                            West Mambalam
+                            Somewhere In Madurai
                         </div>
                         <div>
                             contact@flopkart.com
@@ -260,7 +260,7 @@
                             04424714822
                         </div>
                         <div>
-                            Chennai, Tamil Nadu
+                            Madurai, Tamil Nadu
                         </div>
                     </div>
                 </div>
